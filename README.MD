@@ -1,5 +1,5 @@
 #### Proses Pengerjaan
-Game dikerjakan dengan mengikuti instruksi tutorial. Pertama, saya membuat menambahkan environment particle hujan abu. Kemudian saya menambahkan trail particle. Terakhir, saya melakukan balancing spawn rate. Balancing awalnya 1, saya merasa terlalu cepat. Rate saya ganti jadi 1.2, namun melompat tetap terasa sulit. Lalu saya, naikkan ke 1.6. Kemunculan tikus masih mengagetkan saya, maka, saya menetapkan rate menjadi 1.8 dan terasa pas. Tidak terlalu lambat dan membosankan, tapi tidak terlalu sulit.
+Game dikerjakan dengan mengikuti instruksi tutorial. Pertama, saya membuat menambahkan environment particle hujan abu. Kemudian saya menambahkan trail particle. Terakhir, saya melakukan balancing spawn rate. Balancing awalnya 1, saya merasa terlalu cepat. Rate saya ganti jadi 1.2, namun melompat tetap terasa sulit. Lalu, saya naikkan ke 1.6. Kemunculan tikus masih mengagetkan saya, maka, saya menetapkan rate menjadi 1.8 dan terasa pas. Tidak terlalu lambat dan membosankan, tapi tidak terlalu sulit.
 
 #### Latihan Mandiri
 
@@ -7,7 +7,7 @@ Game dikerjakan dengan mengikuti instruksi tutorial. Pertama, saya membuat menam
 - Aestetika game menarik para pemain untuk mencobanya, beberapa pemain merasakan nostalgia. Secara visual, game yang dicoba mengingatkan mereka terhadap game rpg jepang.
 - Mekanisme button mashing cukup "statisfying" untuk pengguna.
 
-##### Apa saja hal-hal negatif (atau, pain points) yang kamu identifikasi dari pengalaman para pemain ketika mencoba game kelompok?-=-
+##### Apa saja hal-hal negatif (atau, pain points) yang kamu identifikasi dari pengalaman para pemain ketika mencoba game kelompok?
 - Banyak bugs dalam game muncul yang menghancurkan immersion
 - Belum lengkapnya story juga menghancurkan immersion
 - Kurangnya instruksi mekanik membuat pengguna tidak mengerti cara mengontrol karakter tanpa bantuan
