@@ -1,4 +1,7 @@
-Balancing awalnya 1, kecepetan, 1,2 juga masih struggle lompat, naik ke 1,6 spawn ngagetin, 1.8 pacenya pas
+#### Proses Pengerjaan
+Game dikerjakan dengan mengikuti instruksi tutorial. Pertama, saya membuat menambahkan environment particle hujan abu. Kemudian saya menambahkan trail particle. Terakhir, saya melakukan balancing spawn rate. Balancing awalnya 1, saya merasa terlalu cepat. Rate saya ganti jadi 1.2, namun melompat tetap terasa sulit. Lalu saya, naikkan ke 1.6. Kemunculan tikus masih mengagetkan saya, maka, saya menetapkan rate menjadi 1.8 dan terasa pas. Tidak terlalu lambat dan membosankan, tapi tidak terlalu sulit.
+
+#### Latihan Mandiri
 
 ##### Apa saja hal-hal positif yang kamu identifikasi dari pengalaman para pemain ketika mencoba game kelompok?
 - Aestetika game menarik para pemain untuk mencobanya, beberapa pemain merasakan nostalgia. Secara visual, game yang dicoba mengingatkan mereka terhadap game rpg jepang.
